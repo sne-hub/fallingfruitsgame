@@ -1,0 +1,22 @@
+[
+    {
+        "src": "/img/fruits/apple.png",
+        "alt": "apple"
+    },
+    {
+        "src": "/img/fruits/banana.png",
+        "alt": "banana"
+    },
+    {
+        "src": "/img/fruits/cherry.png",
+        "alt": "cherry"
+    },
+    {
+        "src": "/img/fruits/pineapple.png",
+        "alt": "pineapple"
+    },
+    {
+        "src": "/img/fruits/strawberry.png",
+        "alt": "strawberry"
+    }
+]
